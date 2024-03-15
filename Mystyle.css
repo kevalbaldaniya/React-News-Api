@@ -1,0 +1,30 @@
+
+.search-news-container {
+    margin: 20px;
+}
+
+.search-news-form {
+    margin-bottom: 20px;
+}
+
+.search-news-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.search-news-table th,
+.search-news-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.search-news-table th {
+    background-color: #f2f2f2;
+}
+
+.search-news-table img {
+    max-width: 100px;
+}
+
+
